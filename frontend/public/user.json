@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Zuly",
+    "role": "admin",
+    "avatar": "https://sf-static.upanhlaylink.com/img/image_20251020f246f5eea31ab26ae21a6f3851697462.jpg",
+    "status": "active",
+    "soTaiKhoan": "0383277782",
+    "nganHang": "MB Bank",
+    "ngayThamGia": "2025-05-05",
+    "slug": "zuly",
+    "facebook": {
+      "chinh": "61575953281216"
+    },
+    "zalo": "0383277782",
+    "web": "https://zuly.vn",
+    "baoHiem": {
+      "ngayDangKy": "2025-05-05",
+      "soTien": 7000000,
+      "nguoiBaoHiem": "Zuly"
+    },
+    "dichVu": [
+      "Quản trị hệ thống",
+      "Hỗ trợ kỹ thuật và bảo mật"
+    ],
+    "chuTaiKhoan": "Zuly",
+    "stkKhac": [
+      {
+        "nganHang": "MB Bank",
+        "soTaiKhoan": "0383277782"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Miyaru",
+    "role": "qtv",
+    "avatar": "https://sf-static.upanhlaylink.com/img/image_20251020f246f5eea31ab26ae21a6f3851697462.jpg",
+    "status": "active",
+    "soTaiKhoan": "0383277782",
+    "nganHang": "MB Bank",
+    "ngayThamGia": "2025-05-05",
+    "slug": "miyaru",
+    "facebook": {
+      "chinh": "61575836317300"
+    },
+    "zalo": "0383277782",
+    "web": "",
+    "baoHiem": {
+      "ngayDangKy": "2025-05-05",
+      "soTien": 5555555,
+      "nguoiBaoHiem": "Miyaru"
+    },
+    "dichVu": [
+      "Quản lý nội dung",
+      "Hỗ trợ người dùng"
+    ],
+    "chuTaiKhoan": "Miyaru",
+    "stkKhac": [
+      {
+        "nganHang": "MB Bank",
+        "soTaiKhoan": "0383277782"
+      }
+    ]
+  }
+]
