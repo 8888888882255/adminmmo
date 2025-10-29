@@ -3,7 +3,7 @@ const { Sequelize } = require('sequelize');
 const sequelize = require('./config/database');
 const { createClient } = require('redis'); // Import createClient từ redis
 const cors = require('cors');
-
+const userRoutes = require("./routes/users");
 const app = express();
 
 // Lấy danh sách origins từ biến môi trường
@@ -62,10 +62,11 @@ Object.values(db).forEach(model => {
     model.associate(db);
   }
 });
-
+app.use(express.json());
+app.use("/api/users", userRoutes);
 // Định nghĩa các route
 app.use('/api/tenants', require('./routes/tenant.routes'));
-app.use('/api/users', require('./routes/user.routes'));
+app.use('/api/userss', require('./routes/user.routes'));
 app.use('/api/service-packages', require('./routes/service_package.routes'));
 app.use('/api/tenant-offered-packages', require('./routes/tenant_offered_package.routes'));
 app.use('/api/user-purchases', require('./routes/user_purchase.routes'));

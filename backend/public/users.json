@@ -1,0 +1,216 @@
+[
+  {
+    "Id": 1,
+    "HoTen": "Miyaru Yue",
+    "TenPhu": "Zuly",
+    "VaiTro": "1",
+    "TrangThai": "1",
+    "Slug": "miyaru-yue",
+    "GioiThieu": "Zuly - Nơi kết nối đam mê và sáng tạo không giới hạn.",
+    "LinkWeb": "https://zuly.vn",
+    "NgayDangKy": "2025-05-05",
+    "SoTien": 7000000,
+
+    "Meta": {
+      "title": "Miyaru Yue (Zuly) - Quản trị hệ thống & Hỗ trợ kỹ thuật | Zuly.vn",
+      "description": "Trang cá nhân của Miyaru Yue (Zuly) - chuyên gia quản trị hệ thống, tư vấn phần mềm và đào tạo công nghệ tại Zuly.vn.",
+      "keywords": "Miyaru Yue, Zuly, quản trị hệ thống, tư vấn phần mềm, đào tạo công nghệ, Zuly.vn",
+      "author": "Zuly.vn",
+      "ogType": "profile",
+      "ogImage": "/avt.png"
+    },
+
+    "Media": {
+      "Avt": {
+        "Src": "/avt.png",
+        "Alt": "Ảnh đại diện của Miyaru Yue (Zuly)",
+        "Title": "Ảnh đại diện hồ sơ cá nhân Zuly",
+        "Description": "Ảnh đại diện chính thức của Miyaru Yue, thể hiện thương hiệu cá nhân tại Zuly.vn."
+      },
+      "Bia": {
+        "Src": "/bia.png",
+        "Alt": "Ảnh bìa hồ sơ cá nhân Zuly",
+        "Title": "Ảnh bìa nổi bật của Miyaru Yue",
+        "Description": "Ảnh bìa thể hiện phong cách, cá tính và thương hiệu của Miyaru Yue."
+      }
+    },
+
+    "FaceBook": {
+      "Chinh": {
+        "id": "61575953281216",
+        "url": "https://www.facebook.com/profile.php?id=61575953281216",
+        "title": "Zuly - Trang Facebook chính thức",
+        "description": "Theo dõi Zuly trên Facebook để cập nhật thông tin, ưu đãi và hỗ trợ nhanh chóng.",
+        "type": "Trang chính thức"
+      },
+      "Phu": [
+        {
+          "id": "61575953281216",
+          "url": "https://www.facebook.com/profile.php?id=61575953281216",
+          "title": "Zuly - Fanpage dự phòng",
+          "description": "Trang Facebook phụ của Zuly, cập nhật tin tức và hỗ trợ kỹ thuật.",
+          "type": "Fanpage phụ"
+        }
+      ]
+    },
+
+    "Zalo": {
+      "SoDienThoai": "0383277782",
+      "Url": "https://zalo.me/0383277782",
+      "Title": "Liên hệ Zuly qua Zalo",
+      "Description": "Kết nối nhanh với Zuly qua Zalo để nhận tư vấn và hỗ trợ kỹ thuật."
+    },
+
+    "DichVu": {
+      "chinh": [
+        {
+          "ten": "Quản trị hệ thống",
+          "moTa": "Dịch vụ quản lý, giám sát và tối ưu hệ thống doanh nghiệp.",
+          "link": "/dich-vu/quan-tri-he-thong"
+        }
+      ],
+      "phu": [
+        {
+          "ten": "Tư vấn triển khai phần mềm",
+          "moTa": "Hỗ trợ doanh nghiệp triển khai phần mềm phù hợp với nhu cầu thực tế.",
+          "link": "/dich-vu/tu-van-phan-mem"
+        },
+        {
+          "ten": "Đào tạo kỹ năng công nghệ",
+          "moTa": "Đào tạo nhân viên kỹ năng công nghệ giúp tăng hiệu suất công việc.",
+          "link": "/dich-vu/dao-tao-ky-nang"
+        }
+      ]
+    },
+
+    "Stk": {
+      "chinh": {
+        "nganHang": "MB Bank",
+        "soTaiKhoan": "0383277782",
+        "chuTaiKhoan": "Zuly",
+        "moTa": "Tài khoản chính dùng cho mọi giao dịch chính thức của Zuly."
+      },
+      "phu": [
+        {
+          "nganHang": "Vietcombank",
+          "soTaiKhoan": "0123456789",
+          "chuTaiKhoan": "Zuly Store",
+          "moTa": "Tài khoản phụ dùng cho giao dịch dự phòng hoặc khuyến mãi."
+        },
+        {
+          "nganHang": "Techcombank",
+          "soTaiKhoan": "0987654321",
+          "chuTaiKhoan": "Zuly Backup",
+          "moTa": "Tài khoản phụ phục vụ giao dịch online và thanh toán kỹ thuật số."
+        }
+      ]
+    }
+  },
+    {
+    "Id": 2,
+    "HoTen": "Miyaru Yue kdv",
+    "TenPhu": "Zuly",
+    "VaiTro": "2",
+    "TrangThai": "1",
+    "Slug": "miyaru-yue",
+    "GioiThieu": "Zuly - Nơi kết nối đam mê và sáng tạo không giới hạn.",
+    "LinkWeb": "https://zuly.vn",
+    "NgayDangKy": "2025-05-05",
+    "SoTien": 7000000,
+
+    "Meta": {
+      "title": "Miyaru Yue (Zuly) - Quản trị hệ thống & Hỗ trợ kỹ thuật | Zuly.vn",
+      "description": "Trang cá nhân của Miyaru Yue (Zuly) - chuyên gia quản trị hệ thống, tư vấn phần mềm và đào tạo công nghệ tại Zuly.vn.",
+      "keywords": "Miyaru Yue, Zuly, quản trị hệ thống, tư vấn phần mềm, đào tạo công nghệ, Zuly.vn",
+      "author": "Zuly.vn",
+      "ogType": "profile",
+      "ogImage": "/avt.png"
+    },
+
+    "Media": {
+      "Avt": {
+        "Src": "/avt.png",
+        "Alt": "Ảnh đại diện của Miyaru Yue (Zuly)",
+        "Title": "Ảnh đại diện hồ sơ cá nhân Zuly",
+        "Description": "Ảnh đại diện chính thức của Miyaru Yue, thể hiện thương hiệu cá nhân tại Zuly.vn."
+      },
+      "Bia": {
+        "Src": "/bia.png",
+        "Alt": "Ảnh bìa hồ sơ cá nhân Zuly",
+        "Title": "Ảnh bìa nổi bật của Miyaru Yue",
+        "Description": "Ảnh bìa thể hiện phong cách, cá tính và thương hiệu của Miyaru Yue."
+      }
+    },
+
+    "FaceBook": {
+      "Chinh": {
+        "id": "61575953281216",
+        "url": "https://www.facebook.com/profile.php?id=61575953281216",
+        "title": "Zuly - Trang Facebook chính thức",
+        "description": "Theo dõi Zuly trên Facebook để cập nhật thông tin, ưu đãi và hỗ trợ nhanh chóng.",
+        "type": "Trang chính thức"
+      },
+      "Phu": [
+        {
+          "id": "61575953281216",
+          "url": "https://www.facebook.com/profile.php?id=61575953281216",
+          "title": "Zuly - Fanpage dự phòng",
+          "description": "Trang Facebook phụ của Zuly, cập nhật tin tức và hỗ trợ kỹ thuật.",
+          "type": "Fanpage phụ"
+        }
+      ]
+    },
+
+    "Zalo": {
+      "SoDienThoai": "0383277782",
+      "Url": "https://zalo.me/0383277782",
+      "Title": "Liên hệ Zuly qua Zalo",
+      "Description": "Kết nối nhanh với Zuly qua Zalo để nhận tư vấn và hỗ trợ kỹ thuật."
+    },
+
+    "DichVu": {
+      "chinh": [
+        {
+          "ten": "Quản trị hệ thống",
+          "moTa": "Dịch vụ quản lý, giám sát và tối ưu hệ thống doanh nghiệp.",
+          "link": "/dich-vu/quan-tri-he-thong"
+        }
+      ],
+      "phu": [
+        {
+          "ten": "Tư vấn triển khai phần mềm",
+          "moTa": "Hỗ trợ doanh nghiệp triển khai phần mềm phù hợp với nhu cầu thực tế.",
+          "link": "/dich-vu/tu-van-phan-mem"
+        },
+        {
+          "ten": "Đào tạo kỹ năng công nghệ",
+          "moTa": "Đào tạo nhân viên kỹ năng công nghệ giúp tăng hiệu suất công việc.",
+          "link": "/dich-vu/dao-tao-ky-nang"
+        }
+      ]
+    },
+
+    "Stk": {
+      "chinh": {
+        "nganHang": "MB Bank",
+        "soTaiKhoan": "0383277782",
+        "chuTaiKhoan": "Zuly",
+        "moTa": "Tài khoản chính dùng cho mọi giao dịch chính thức của Zuly."
+      },
+      "phu": [
+        {
+          "nganHang": "Vietcombank",
+          "soTaiKhoan": "0123456789",
+          "chuTaiKhoan": "Zuly Store",
+          "moTa": "Tài khoản phụ dùng cho giao dịch dự phòng hoặc khuyến mãi."
+        },
+        {
+          "nganHang": "Techcombank",
+          "soTaiKhoan": "0987654321",
+          "chuTaiKhoan": "Zuly Backup",
+          "moTa": "Tài khoản phụ phục vụ giao dịch online và thanh toán kỹ thuật số."
+        }
+      ]
+    }
+  }
+]
